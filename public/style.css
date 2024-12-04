@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+
+:root{
+    --white:#FFF;
+    --slate-blue:#6A5ACD;
+    --red-orange:#ff4500;
+    --medim-black: #222224;
+    --medium-orange:#ffa500;
+}
+
+body{
+    background-color: var(--medim-black);
+    font-family: "Protest Revolution", sans-serif;
+}
+
+.navbar{
+    width: 1200px;
+    margin: 1rem auto;
+    border-radius: 5px;
+    background-color: var(--slate-blue);
+    box-shadow: 1px 1px 3px var(--white);
+}
+
+.navbar .logo a{
+    color: var(--white);
+    text-decoration: none;
+}
+
+.navbar .form-control .spacing{
+    letter-spacing: 2px;
+}
+
+.navbar .social-media .ul-social-media{
+    gap: .5rem;
+    margin: auto;
+    display: flex;
+}
+
+.social-media li{
+    display: flex;
+    list-style: none;
+    font-size: 2rem;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-media, .whatsapp, .instagram, .facebook{
+    color: var(--medium-orange);
+    transition: 0.3s ease-in-out;
+}
+
+.social-media, .whatsapp:hover, .instagram:hover, .facebook:hover{
+    color: var(--red-orange);
+}
