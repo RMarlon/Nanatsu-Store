@@ -1,0 +1,25 @@
+Projeto Nanatsu Store:
+
+Cores: Roxo | Laranja | Branco e suas variáveis - Tons Mais Fracos e Mais Fortes.
+
+Cabeçalho: Terá input de pesquisa | ícones de redes sociais | A Logo |
+Carrinho de Compras
+
+seções:
+
+Seção 1: A Primeira seção será um banner animado e informativo.
+
+Seção 2: É a seção "SOBRE", é opcional, serve para falar um pouco sobre a loja, inspirações etc...
+
+seção 3: É o corpo da loja, será onde ficaram os produtos, as canecas expostas para vendas.
+
+seção 4: Outra seção opcional, é basicamente uma galeria com as imagens de canecas já vendidas.
+
+rodapé: Ficarão algumas informações adicionais, Como número de contato, Whatsapp e redes sociais.
+
+Ferramentas A serem Utilizadas:
+Html5
+Css3
+Bootstrap
+Javascript
+TypeScript
